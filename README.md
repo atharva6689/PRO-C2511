@@ -1,1 +1,1 @@
-# PRO-C2511
+# project-C24-template
